@@ -1,0 +1,6 @@
+D:\CsharpProject\webblog\WebBlog\WebBlog\bin\WebBlog.dll.config
+D:\CsharpProject\webblog\WebBlog\WebBlog\bin\WebBlog.dll
+D:\CsharpProject\webblog\WebBlog\WebBlog\bin\WebBlog.pdb
+D:\CsharpProject\webblog\WebBlog\WebBlog\obj\Debug\WebBlog.csprojResolveAssemblyReference.cache
+D:\CsharpProject\webblog\WebBlog\WebBlog\obj\Debug\WebBlog.dll
+D:\CsharpProject\webblog\WebBlog\WebBlog\obj\Debug\WebBlog.pdb
